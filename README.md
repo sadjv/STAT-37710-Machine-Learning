@@ -1,1 +1,1 @@
-Assignments for a theoretical machine learning course.
+Coding assignments for a theoretical machine learning course.
